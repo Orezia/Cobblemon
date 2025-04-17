@@ -1,5 +1,5 @@
 <ins><p align="center"><img style="height:200px" src="https://oreziamc.fr/img/logo.png"></p>
-<p align="center"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"> <img alt="Static Badge" src="https://img.shields.io/badge/cobblemon-0.1.2-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=78b883&color=d9b5d9"></p>
+<p align="center"><img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/Orezia/Cobblemon.svg?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=78b883&color=d9b5d9"></p>
 
 ---
 ### **<ins><p align="center">Feedback du serveur Cobblemon</p>**
